@@ -1,0 +1,6 @@
+tree ea47dda93611309b4f1672d398a281c2b165bed7
+parent 9f971fe5cc3f4cbe1a9bc80cab485c4155fb113f
+author manju <manju@airtel.com> 1495688882 +0530
+committer manju <manju@airtel.com> 1495688882 +0530
+
+String data store in redis-->simple
