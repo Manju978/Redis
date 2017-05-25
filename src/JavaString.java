@@ -1,6 +1,7 @@
 import redis.clients.jedis.Jedis; 
 
-public class JavaString { 
+public class JavaString
+{ 
    public static void main(String[] args) { 
       //Connecting to Redis server on localhost 
       Jedis jedis = new Jedis("localhost"); 
